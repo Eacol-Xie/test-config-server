@@ -1,1 +1,4 @@
-
+project: 
+  name: apgs
+  version: 1.0
+  profile: prod
