@@ -1,1 +1,4 @@
-
+project: 
+  name: agps
+  version: 1.0
+  profile: dev
