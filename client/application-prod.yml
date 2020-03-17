@@ -1,0 +1,4 @@
+project: 
+  name: client
+  version: 1.0
+  profile: prod
