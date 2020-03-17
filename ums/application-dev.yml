@@ -1,1 +1,4 @@
-
+project: 
+  name: ums
+  version: 1.0
+  profile: dev
