@@ -1,1 +1,4 @@
-
+project: 
+  name: lbs
+  version: 1.0
+  profile: dev
